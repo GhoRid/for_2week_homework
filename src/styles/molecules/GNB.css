@@ -1,0 +1,22 @@
+.box.gnb{
+    display: flex;
+    align-items: center;
+    width: cover;
+}
+
+.button.gnb{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+
+.buttoncover{
+    width: 1450px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.link.gnb{
+    background-color: white;
+}
+
